@@ -1,6 +1,6 @@
-#you can try the website from this link
+# You can try the website from this link
 
-https://github.com/Samir-Salah/ng-recipe-book
+https://recipe-book-website.netlify.app/
 
 # Recipe Book
 
